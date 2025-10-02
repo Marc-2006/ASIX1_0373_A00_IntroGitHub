@@ -38,8 +38,9 @@ enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus
 
 ![alt text](./imagen%201.jpeg "imagen de prueba")
 
+
 | Jugador | Equipo | Nombre |
-|---------||-------|--------|
+|---------|-------|--------|
 | 32| Lakers | Messi |
 | 32| Lakers | Messi |
 | 32| Lakers | Messi |
