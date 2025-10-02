@@ -37,3 +37,11 @@ enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus
 [Link](https://www.fcbarcelona.es/es/ "web Barça")
 
 ![alt text](./imagen%201.jpeg "imagen de prueba")
+
+| Jugador | Equipo | Nombre |
+|---------||-------|--------|
+| 32| Lakers | Messi |
+| 32| Lakers | Messi |
+| 32| Lakers | Messi |
+
+
