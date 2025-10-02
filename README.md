@@ -34,12 +34,12 @@ CERRAR ETIQUETA 1
 enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</p>  
 ``` 
 
-[Link](https://www.fcbarcelona.es/es/ "web Barça")
+[Link](https://www.fcbarcelona.es/es/ "web Barça" )
 
 ![alt text](./imagen%201.jpeg "imagen de prueba")
 
 
-| Jugador | Equipo | Nombre |
+| *Jugador* | Equipo | Nombre |
 |---------:|:-------:|:--------|
 | 32| Lakers | Messi |
 | 32| Lakers | Messi |
