@@ -40,7 +40,7 @@ enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus
 
 
 | Jugador | Equipo | Nombre |
-|---------|-------|--------|
+|---------:|:-------:|:--------|
 | 32| Lakers | Messi |
 | 32| Lakers | Messi |
 | 32| Lakers | Messi |
